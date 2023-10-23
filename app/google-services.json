@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971914981871",
+    "project_id": "co-op-2-firebase",
+    "storage_bucket": "co-op-2-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971914981871:android:6df82a1e8c9ca00494061a",
+        "android_client_info": {
+          "package_name": "com.example.co_op2firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIW4v8AIM0yPnHlhzl2aFlbW_dwRf-6w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
